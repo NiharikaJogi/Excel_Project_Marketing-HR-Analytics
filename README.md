@@ -1,4 +1,4 @@
-# Excel_Projects
+# Excel_Project_Marketing & HR Analytics
 (i) Marketing & HR Analytics
 Conducted an in-depth analysis of retail transactional data using Advanced Excel to derive valuable insights. Leveraged RFM (Recency, Frequency, Monetary) analysis and customer lifetime value calculations to segment customers and assess their long-term worth.
 Outcome:
